@@ -2008,6 +2008,7 @@ figure.highlight pre .javascript .function {
   min-height: 100vh;
 }
 .layout {
+  background-image: "";
   display: -webkit-box;
   display: -moz-box;
   display: -webkit-flex;
